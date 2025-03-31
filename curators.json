@@ -1,8 +1,164 @@
 [
-  {
-    "category_name": "Pubg",
-    "ids": [767, 768, 769, 784],
-    "curators" : ["WwvwvwW"]
-  }
-  
+    {
+        "name": "PUBG",
+        "ids": [767, 768],
+        "curators": ["WwvwvwW"]
+    },
+    {
+        "name": "Counter-Strike 2",
+        "ids": [13, 36, 38],
+        "curators": ["CMH"]
+    },
+    {
+        "name": "Dota 2",
+        "ids": [128, 227, 228],
+        "curators": ["ascension"]
+    },
+    {
+        "name": "Overwatch 2",
+        "ids": [967, 968],
+        "curators": ["форум"]
+    },
+    {
+        "name": "Fortnite",
+        "ids": [790, 792, 987],
+        "curators": ["WwvwvwW"]
+    },
+    {
+        "name": "Valorant",
+        "ids": [914, 917, 978, 980],
+        "curators": ["Wysanne"]
+    },
+    {
+        "name": "GTA",
+        "ids": [141, 175, 177, 179, 669, 114, 139, 170, 171, 172, 258, 518, 690, 722],
+        "curators": ["СлаваМэрлоу"]
+    },
+    {
+        "name": "World of Tanks",
+        "ids": [125, 213, 214 ,215, 689],
+        "curators": ["OlegBekker"]
+    },
+    {
+        "name": "miHoyo",
+        "ids": [990, 890, 891, 939, 988, 994, 995, 1004, 1005, 1006],
+        "curators": ["Парадеевич"]
+    },
+    {
+        "name": "Deadlock",
+        "ids": [1010, 1030, 1031],
+        "curators": ["KitMarder"]
+    },
+    {
+        "name": "Osu!",
+        "ids": [870, 877, 905, 945],
+        "curators": ["pantishkin"]
+    },
+    {
+        "name": "Supercell",
+        "ids": [892, 893],
+        "curators": ["Звёздочка"]
+    },
+    {
+        "name": "FIFA",
+        "ids": [946, 970, 971],
+        "curators": ["kipsad"]
+    },
+    {
+        "name": "Team Fortress",
+        "ids": [983],
+        "curators": ["everything"]
+    },
+    {
+        "name": "Warface",
+        "ids": [19, 75, 76, 77, 79, 536, 687],
+        "curators": ["amore"]
+    },
+    {
+        "name": "Apex Legends",
+        "ids": [824, 828, 878, 933, 934],
+        "curators": ["WatchUrr"]
+    },
+    {
+        "name": "Battlefield",
+        "ids": [758, 920, 921, 922, 821, 886, 923, 859, 887, 924],
+        "curators": ["MacMen"]
+    },
+    {
+        "name": "The Finals",
+        "ids": [982],
+        "curators": ["membB"]
+    },
+    {
+        "name": "Call of Duty",
+        "ids": [418, 881, 940, 958],
+        "curators": ["PROD"]
+    },
+    {
+        "name": "Escape from Tarkov",
+        "ids": [857, 884, 1000, 885, 941],
+        "curators": ["fuckingsueta"]
+    },
+    {
+        "name": "DayZ",
+        "ids": [998, 1029, 1020],
+        "curators": ["Lanoriya"]
+    },
+    {
+        "name": "League of Legends",
+        "ids": [130, 217, 218, 219, 221],
+        "curators": ["QIYANA"]
+    },
+    {
+        "name": "Minecraft",
+        "ids": [47, 200, 201, 202, 203, 204, 205, 251],
+        "curators": ["MacMen"]
+    },
+    {
+        "name": "Rust",
+        "ids": [842, 942, 883],
+        "curators": ["OLEGator"]
+    },
+    {
+        "name": "STALKER",
+        "ids": [560, 1032, 562, 563, 561],
+        "curators": ["pantishkin"]
+    },
+    {
+        "name": "Rocket League",
+        "ids": [869, 888, 973],
+        "curators": ["kipsad"]
+    },
+    {
+        "name": "VR игры",
+        "ids": [944, 959, 960],
+        "curators": ["link"]
+    },
+    {
+        "name": "Roblox",
+        "ids": [1019, 1034],
+        "curators": ["fuckingsueta"]
+    },
+    {
+        "name": "War Thunder",
+        "ids": [1037],
+        "curators": ["форум"]
+    },
+    {
+        "name": "Rainbow Six Siege",
+        "ids": [1036],
+        "curators": ["Dokka"]
+    },
+    {
+        "name": "Компьютеры",
+        "ids": [587, 837, 109, 794, 588],
+        "curators": ["aawaw"]
+    },
+    {
+        "name": "Телефоны",
+        "ids": [435, 436, 437],
+        "curators": ["link", "Shell"]
+    }
+
+    
 ]
