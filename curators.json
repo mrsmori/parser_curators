@@ -2,7 +2,7 @@
     {
         "name": "PUBG",
         "ids": [767, 768],
-        "curators": []
+        "curators": ["everything"]
     },
     {
         "name": "Counter-Strike 2",
@@ -22,7 +22,7 @@
     {
         "name": "Fortnite",
         "ids": [790, 792, 987],
-        "curators": []
+        "curators": ["Парадеевич"]
     },
     {
         "name": "Valorant",
